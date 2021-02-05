@@ -1,0 +1,21 @@
+{
+  "name": "animal-server",
+  "version": "1.0.0",
+  "description": "animal-server",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anglay/animal-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anglay/animal-server/issues"
+  },
+  "homepage": "https://github.com/Anglay/animal-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
